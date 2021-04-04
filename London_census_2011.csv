@@ -1,4 +1,4 @@
-﻿Ward name,Old code,New code,Employment rate (16-64) - 2011,% detached houses - 2011,% semi-detached houses - 2011,% terraced houses - 2011,"% Flat, maisonette or apartment - 2011",% with Level 4 qualifications and above - 2011,Cars per household - 2011
+﻿ward,old_code,new_code,employment_rate,detached_houses ,semi_detached,terraced_houses ,flat,qualifications,cars
 City of London,00AA,E09000001,79.6,0.4,0.2,1.4,98,68.4,0.4
 Barking and Dagenham - Abbey,00ABFX,E05000026,60.3,3.9,7.2,22.6,66.3,34.5,0.5
 Barking and Dagenham - Alibon,00ABFY,E05000027,63.1,3.8,18.2,63.8,14.2,16.7,0.8
