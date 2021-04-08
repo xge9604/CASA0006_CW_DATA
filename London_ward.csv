@@ -1,4 +1,4 @@
-﻿ward_name,code,% with Level 4 qualifications and above - 2011,Crime rate - 2014/15,Cars per household - 2011,In employment (16-64) - 2011,Number of Household spaces - 2011
+﻿ward_name,code,qualification,crime_rate,cars_per_household,in_employment,number_of_housespace
 City of London,E09000001,68.4,656.4,0.4,4555,"5,530"
 Barking and Dagenham - Abbey,E05000026,34.5,138.1,0.5,5444,"4,753"
 Barking and Dagenham - Alibon,E05000027,16.7,73.6,0.8,4143,"4,045"
